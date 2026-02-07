@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sGoal",
+    "path":"sprites/sGoal/sGoal.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
