@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"oDogRadius",
-  "eventList":[],
+  "%Name":"oDog2",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"oDogRadius",
+  "name":"oDog2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sDogRadius",
-    "path":"sprites/sDogRadius/sDogRadius.yy",
+    "name":"sDog2",
+    "path":"sprites/sDog2/sDog2.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

@@ -14,10 +14,6 @@ if(dogged){
 		
 }
 
-if(direction >=270 or direction < 90){
-	image_xscale = -1;
-}else{
-	image_xscale = 1;	
-}
+	image_angle = direction;
 dogged = false;
 worried = false;

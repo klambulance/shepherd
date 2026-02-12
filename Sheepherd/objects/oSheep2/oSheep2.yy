@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"oSheep",
+  "%Name":"oSheep2",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -10,7 +10,7 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oDogBigRadius","path":"objects/oDogBigRadius/oDogBigRadius.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oSheep",
+  "name":"oSheep2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sSheep",
-    "path":"sprites/sSheep/sSheep.yy",
+    "name":"sSheep2",
+    "path":"sprites/sSheep2/sSheep2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oDogRadius",
+  "%Name":"oDogBigRadius",
   "eventList":[],
   "managed":true,
-  "name":"oDogRadius",
+  "name":"oDogBigRadius",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sDogRadius",
-    "path":"sprites/sDogRadius/sDogRadius.yy",
+    "name":"sDogBigRadius",
+    "path":"sprites/sDogBigRadius/sDogBigRadius.yy",
   },
   "spriteMaskId":null,
   "visible":false,
