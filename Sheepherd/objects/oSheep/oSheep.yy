@@ -13,8 +13,8 @@
   "name":"oSheep",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"superseded",
+    "path":"folders/Objects/superseded.yy",
   },
   "parentObjectId":null,
   "persistent":false,

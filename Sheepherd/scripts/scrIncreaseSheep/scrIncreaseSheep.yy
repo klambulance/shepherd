@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrIncreaseSheep",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrIncreaseSheep",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
